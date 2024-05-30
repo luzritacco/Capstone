@@ -7,6 +7,16 @@ For this capstone project, the team  goal is to implement a chatbot application 
 
 The key objective is to successfully implement a chatbot development workflow that incorporates secure automated processes, which will be achieved through the implementation of a secure automated CI/CD pipeline. 
 
+
+| Sprint  | Deliverables |
+| ------------- | ------------- |
+| 1  |[documentation](https://drive.google.com/drive/folders/1Ml1jUuZwh5hs8ICMRKJdI92ciLsBzDEO)  |
+| 2  |[documentation](https://drive.google.com/drive/folders/1Ml1jUuZwh5hs8ICMRKJdI92ciLsBzDEO)  |
+| 3  | [documentation](https://drive.google.com/drive/home)  |
+| 4  | [documentation] |
+| 5  | [documentation] |
+| 6  | [documentation]  |
+#
   ![Screenshot 2024-05-27 003153](https://github.com/luzritacco/Capstone/assets/151267325/9694dc0b-2f4e-4078-bfce-f30ced83caf6)
 
 ![Screenshot 2024-05-27 004057](https://github.com/luzritacco/Capstone/assets/151267325/d4608c10-3435-41d1-8858-7a47db63de1d)
