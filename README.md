@@ -1,7 +1,7 @@
-# Capstone
-##
+# TKH-Phase 3 Capstone
+# BuildCing a Secure DevOps Pipeline for Continuous Integration and Continuous Delivery (CI/CD) in AWS
 
-
+[**The Knowledge House**](https://www.linkedin.com/school/theknowledgehouse/) Cybersecurity Fellowship's Phase 3 marks a vital stage in the journey of innovation and collaboration. It is a stage where the convergence of diverse talents and minds transcends the ordinary, fostering an environment where collective creativity thrives. This phase represents not merely a privilege but a cornerstone that solidifies the foundation of teamwork, empowering fellows to harness the power of unity in crafting impactful solutions. It stands as a testament to the belief that when a group of dedicated individuals unite, the potential for transformative change becomes limitless. The Knowledge House exemplifies an unwavering commitment to guiding fellows through a transformative process, equipping them with the skills and mindset necessary to thrive in the tech industry and beyond.
 
   ![Screenshot 2024-05-27 003153](https://github.com/luzritacco/Capstone/assets/151267325/9694dc0b-2f4e-4078-bfce-f30ced83caf6)
 
