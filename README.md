@@ -1,4 +1,4 @@
-# TKH-Phase 3 Capstone
+# TKH-Phase 3 Capstone Project
 # Building a Secure DevOps Pipeline for Continuous Integration and Continuous Delivery (CI/CD) in AWS
 
 [**The Knowledge House**](https://www.linkedin.com/school/theknowledgehouse/) Cybersecurity Fellowship's Phase 3 marks a vital stage in the journey of innovation and collaboration. It is a stage where the convergence of diverse talents and minds transcends the ordinary, fostering an environment where collective creativity thrives. This phase represents not merely a privilege but a cornerstone that solidifies the foundation of teamwork, empowering fellows to harness the power of unity in crafting impactful solutions. It stands as a testament to the belief that when a group of dedicated individuals unite, the potential for transformative change becomes limitless. The Knowledge House exemplifies an unwavering commitment to guiding fellows through a transformative process, equipping them with the skills and mindset necessary to thrive in the tech industry and beyond.
@@ -6,8 +6,21 @@
 For this capstone project, the team  goal is to implement a chatbot application on AWS in a secure and automated manner by leveraging a DevOps approach. Specifically, we aim to design and configure a secure automated CI/CD pipeline that integrates security measures throughout the entire application lifecycle. This will enable us to deliver a secure and reliable chatbot application faster by automating the integration of security practices into the development of the chatbot.
 
 The key objective is to successfully implement a chatbot development workflow that incorporates secure automated processes, which will be achieved through the implementation of a secure automated CI/CD pipeline. 
+##
+ <h1 align="center">Technical Skills </h1>
+ 
+| Tools | Description |
+| ------------- | ------------- |
+| Management   | Jira, Google Drive, Slack, Zoom  |
+| Code  |GitHub/Git  |
+| Build| AWS CodeBuild |
+| Test  | SonarQube, OWASP ZAP |
+| Realease  | AWS CodePipeline |
+| Deploy |AWS CodeDeploy  |
+| Operate  | AWS CloudWatch  |
+| Monitor| AWS CloudWatch, Aws cloudTrail |
 
-
+##
 | Sprint  | Deliverables |
 | ------------- | ------------- |
 | 1  |[documentation](https://drive.google.com/drive/folders/1Ml1jUuZwh5hs8ICMRKJdI92ciLsBzDEO)  |
