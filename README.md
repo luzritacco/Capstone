@@ -8,6 +8,9 @@ For this capstone project, the team  goal is to implement a chatbot application 
 The key objective is to successfully implement a chatbot development workflow that incorporates secure automated processes, which will be achieved through the implementation of a secure automated CI/CD pipeline. 
 ##
  <h1 align="center">Technical Skills </h1>
+ Here’s a table outlining the key tools and technical skills used for managing and implementing the project, especially focusing on the DevOps pipeline and CI/CD practices in AWS.
+
+
  
 | Tools | Description |
 | ------------- | ------------- |
